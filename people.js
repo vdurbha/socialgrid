@@ -4,7 +4,7 @@ module.exports = {
     },
 
     getPeople: function getPeople(req, res, next){
-	res.send("Get People: " + req.params.userId);
+	res.send("Get People: " + req.params.userId + " " + req.params.groupId);
     },
 
     createRelationship: function createRelationship(req, res, next){
