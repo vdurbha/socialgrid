@@ -1,0 +1,12 @@
+{
+  "author": "Viswanath Durbha <viswanath.durbha@gmail.com> (http://viswanath.posterous.com)",
+  "name": "socialgrid",
+  "description": "Social Grid",
+  "version": "0.0.0",
+  "dependencies": {
+    "restify": "1.4.2"
+  },
+  "engines": {
+    "node": ">=0.6.8"
+  }
+}
